@@ -10,5 +10,5 @@ XL+4T=ANS
 ANS*1.13=TOTAL
 print"enter variable"
 get TOTAL
-var TOTAL:int
+varTOTAL:int
 print(TOTAL) 
