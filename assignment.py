@@ -9,5 +9,6 @@ XL+3T=ANS
 XL+4T=ANS
 ANS*1.13=TOTAL
 print"enter variable"
-print(TOTAL)
- 
+get TOTAL
+varTOTAL:int
+print(TOTAL) 
